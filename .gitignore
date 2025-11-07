@@ -1,0 +1,20 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Build/Temp
+__pycache__/
+dist/
+build/
+tmp/
+.temp/
+*.log
+
+# Node/other (por si algún reto usa tooling)
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

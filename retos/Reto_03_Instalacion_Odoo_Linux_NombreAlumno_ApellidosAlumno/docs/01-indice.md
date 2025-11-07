@@ -1,0 +1,13 @@
+# Índice
+1. [Requisitos previos](./02-requisitos_previos.md)
+2. [Preparación del sistema](./03-preparacion_sistema.md)
+3. [PostgreSQL en Linux](./04-postgresql_linux.md)
+4. [Dependencias](./05-dependencias.md)
+5. [Instalación de Odoo](./06-instalacion_odoo.md)
+6. [Configuración de Odoo](./07-configuracion_odoo.md)
+7. [Servicio systemd](./08-servicio_systemd.md)
+8. [Creación de BD de prueba](./09-creacion_bd_prueba.md)
+9. [Verificación de acceso](./10-verificacion.md)
+10. [Problemas comunes (FAQ)](./11-troubleshooting.md)
+11. [Checklist final](./12-checklist.md)
+12. [Bibliografía y fuentes](./99-bibliografia.md)
