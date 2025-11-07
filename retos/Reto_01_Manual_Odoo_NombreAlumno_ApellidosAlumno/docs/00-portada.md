@@ -1,4 +1,4 @@
-# Manual de Odoo — {Nombre Apellidos}
-**Reto:** Manual_Odoo_{Nombre}_{Apellidos}  
+# Manual de Odoo — Juan José Díaz Ruiz
+**Reto:** Manual_Odoo_JuanJose_DiazRuiz  
 **Proyecto:** Proyecto_RA2_UT2  
-**Fecha:** {YYYY-MM-DD}
+**Fecha:** 2025 10 8
