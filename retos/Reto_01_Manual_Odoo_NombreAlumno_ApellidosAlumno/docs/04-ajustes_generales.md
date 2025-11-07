@@ -1,7 +1,5 @@
 # 04 — Ajustes generales
 
-> Estructura orientativa
-
 - Activar **notificaciones** y (opcional) **PWA**.
 - Perfil: modo oscuro, datos, **2FA**, firma email, notificaciones en Odoo.
 - **Usuarios y compañías**: roles por módulo; en Enterprise se paga por usuario.
