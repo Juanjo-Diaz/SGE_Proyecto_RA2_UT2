@@ -15,4 +15,4 @@ El apartado de información funcina de forma muy parecida a wikis estilo notion,
 ![](../assets/img/09-documentos_firma_info/informacion.png)
 El apartado de información permite crear tu propia wiki, para ello tan solo necesitas añadir una estructura básica, la cual deberas de llenar con los articulos relevantes, el formato que usan estos archivos es markdown, pero tiene un editor de markdown nativo:
 ![](../assets/img/09-documentos_firma_info/funciones.png)
-Esto permite organizar la información de una manera más profesional, así cómo añadir documentos, encuestas y hojas de calculo directamente al apartado de información desde el resto de la página web.
+Esto permite organizar la información de una manera más profesional, así cómo añadir documentos, encuestas y hojas de calculo directamente al apartado de información desde el resto de la base de datos, incluyendo los proyectos pendientes.
