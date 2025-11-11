@@ -6,5 +6,6 @@
 Si, el instalador de Odoo descarga PostgreSQL automáticamente.
 
 2. Comprueba que el **servicio de PostgreSQL** está en ejecución.
-Al entrar en el administrador de tareas, en el apartado de detalles, se puede ver que PostgreSQL está en ejecución.
+Al entrar enb "servicios" puedes revisar si está activado, aquí hay un ejemplo de PostgreSQL funcionando.
+![](../assets/img/04-postgresql_windows/postgrefuncionando.png)
 > Resultado esperado: PostgreSQL instalado y funcionando (usuario/puerto guardados).
