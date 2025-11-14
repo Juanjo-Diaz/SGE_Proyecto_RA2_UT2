@@ -15,5 +15,7 @@
    ```bash
    sudo mkdir -p /var/log/odoo && sudo chown odoo:odoo /var/log/odoo
    ```
+   Esto es lo que deberías ver en la configuración (incluyendo la configuración del admin)
+   ![](../assets/img/08-servicio_systemd/nano.png)
 
 > Resultado esperado: configuración mínima funcional creada.

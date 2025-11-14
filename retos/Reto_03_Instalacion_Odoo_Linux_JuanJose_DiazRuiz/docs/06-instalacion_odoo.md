@@ -14,5 +14,5 @@ sudo apt update
 sudo apt install -y odoo
 Y compruebas que se haya instalado.
 sudo systemctl status odoo
-
+![](../assets/img/06-instalacion_odoo/instalacion.png)
 > Resultado esperado: binarios/código de Odoo instalados.

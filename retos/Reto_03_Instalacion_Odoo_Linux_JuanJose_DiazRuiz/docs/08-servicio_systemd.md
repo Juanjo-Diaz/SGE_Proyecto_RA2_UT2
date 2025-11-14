@@ -16,12 +16,14 @@
    [Install]
    WantedBy=multi-user.target
    ```
+   Así debe de quedar el archivo: ![](../assets/img/08-servicio_systemd/servicio.png)
 2. Recarga y arranca:
    ```bash
    sudo systemctl daemon-reload
    sudo systemctl enable --now odoo
    sudo systemctl status odoo
    ```
+   ![](../assets/img/06-instalacion_odoo/instalacion.png)
 
 ![systemd](../assets/img/08-servicio_systemd/paso01_status-odoo.png "Estado de systemd")
 
